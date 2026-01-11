@@ -55,8 +55,18 @@
 <div align="center">
   <h3>🌐 Connect with Me</h3>
   <p>
-    <a href="https://www.linkedin.com/in/umeshdharmarathna" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/umeshdharmarathna" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/umesh-chamika-223621229/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
+    </a>
+    <a href="https://www.facebook.com/umesh.chamika.562" target="_blank">
+      <img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="40" />
+    </a>
+    <a href="https://www.instagram.com/umesh_dharmarathna/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" />
+    </a>
+    <a href="https://github.com/umeshdharmarathna" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" alt="github" height="40" />
+    </a>
   </p>
 </div>
 
