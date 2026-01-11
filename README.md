@@ -51,7 +51,6 @@
 
 
 ---
-
 <div align="center">
   <h3>🌐 Connect with Me</h3>
   <p>
@@ -59,7 +58,7 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
     </a>
     <a href="https://www.facebook.com/umesh.chamika.562" target="_blank">
-      <img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="32" width="32" style="vertical-align:middle; margin: 4px;" />
     </a>
     <a href="https://www.instagram.com/umesh_dharmarathna/" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" />
@@ -69,7 +68,6 @@
     </a>
   </p>
 </div>
-
 ---
 
 <h3 align="center">🚀 Languages and Tools</h3>
