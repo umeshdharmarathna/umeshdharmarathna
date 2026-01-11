@@ -25,15 +25,23 @@
     <i>I enjoy building creative solutions and learning new technologies to solve real-world problems.</i>
   </p>
 
+<div align="center">
   <p>
     <img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  </p>
+
+  <p>
     <img src="https://img.shields.io/badge/Studying%20at-SLTC%20Research%20University-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
-    <br>
+    <img src="https://img.shields.io/badge/Studying%20at-C--Clarke%20International-00b4d8?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  </p>
+
+  <p>
     <img src="https://img.shields.io/badge/Ask%20me%20about-Java%20%26%20Python-orange?style=for-the-badge&logo=python&logoColor=white" />
     <a href="mailto:umeshchamika167@gmail.com">
-      <img src="https://img.shields.io/badge/Reach%20Me-umeshchamika167@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Reach%20Me-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
+</div>
 </div>
 
 <div align="center">
