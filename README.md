@@ -143,7 +143,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=footer&text=Umesh%20Dharmarathna&fontSize=50&animation=scaleIn&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=280&section=header&text=UMESH%20DHARMARATHNA&fontSize=60&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
