@@ -1,32 +1,34 @@
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hi%20👋,%20I'm%20Umesh%20Dharmarathna&fontSize=45&animation=fadeIn&fontAlignY=40&font=Orbitron" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Umesh Dharmarathna</h1>
-<h2 align="center">Software Engineer | Web & AI Developer</h2>
+<div align="center" style="margin-top: -65px;">
+  <h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #58a6ff; text-shadow: 2px 2px 4px #000000;">
+    SOFTWARE ENGINEER | WEB & AI DEVELOPER
+  </h2>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umeshdharmarathna&label=Profile%20views&color=0e75b6&style=flat-square" alt="umeshdharmarathna" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=FULL+STACK+DEVELOPER;AI+ENTHUSIAST;CREATIVE+PROBLEM+SOLVER" alt="Typing SVG" />
+  </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=About%20Me&fontSize=35" />
 </p>
-
-<!-- <div align="center">
-  <p>
-    <b>I am a dedicated Software Engineering student with a strong passion for Web Development and AI.</b><br>
-    <i>I enjoy building creative solutions and learning new technologies to solve real-world problems.</i>
-  </p> -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&width=500&section=header" />
 
   <table border="0" cellpadding="20">
     <tr>
@@ -51,7 +53,7 @@
           </font>
         </p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=js,python,java" height="25" />
+          <img src="https://skillicons.dev/icons?i=js,python,java,react,html,css,mysql," height="25" />
         </p>
       </td>
     </tr>
@@ -60,23 +62,42 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800&section=footer" />
 </div>  
 
+
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-  </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Studying%20at-SLTC%20Research%20University-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
-    <img src="https://img.shields.io/badge/Studying%20at-C--Clarke%20International-00b4d8?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  </p>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LEARNING-ARTIFICIAL%20INTELLIGENCE-8e44ad?style=for-the-badge&logo=openai&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
-  <p>
-    <img src="https://img.shields.io/badge/Ask%20me%20about-Java%20%26%20Python-orange?style=for-the-badge&logo=python&logoColor=white" />
-    <a href="mailto:umeshchamika167@gmail.com">
-      <img src="https://img.shields.io/badge/Reach%20Me-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/STUDYING%20AT-SLTC%20RESEARCH%20UNIVERSITY-0077b6?style=for-the-badge&logo=google-scholar&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/STUDYING%20AT-C--CLARKE%20INTL-00b4d8?style=for-the-badge&logo=digitalocean&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <table border="0">
+    <tr>
+      <td align="center" bgcolor="#1a1a1a" style="padding: 10px; border-radius: 10px;">
+        <img src="https://img.shields.io/badge/ASK%20ME%20ABOUT-JAVA%20%26%20PYTHON-f39c12?style=for-the-badge&logo=python&logoColor=white" />
+        &nbsp;&nbsp;
+        <a href="mailto:umeshchamika167@gmail.com">
+          <img src="https://img.shields.io/badge/REACH%20ME-GMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <!-- CONTRIBUTION SNAKE -->
@@ -94,33 +115,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshdharmarathna&theme=radical&hide_border=true&stroke=000000" alt="GitHub Streak" />
 </p>
-
-<!-- <div align="center">
-  <h3>🌐 Connect with Me</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/umesh-chamika-223621229/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
-    </a>
-    <a href="https://www.facebook.com/umesh.chamika.562" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="32" width="32" style="vertical-align:middle; margin: 4px;" />
-    </a>
-    <a href="https://www.instagram.com/umesh_dharmarathna/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" />
-    </a>
-    <a href="https://github.com/umeshdharmarathna" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="github" height="40" />
-    </a>
-  </p>
-</div> -->
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=header&text=LANGUAGES%20AND%20TOOLS&fontSize=20" />
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,mssql,java,python,c,cpp,git,ps,ai&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,react,java,python,c,cpp,git,ps,ai&theme=dark" />
   </a>
 </p>
 <p align="center">
@@ -146,6 +147,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=280&section=header&text=UMESH%20DHARMARATHNA&fontSize=60&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
