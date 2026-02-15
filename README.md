@@ -108,7 +108,7 @@
 </p>
 <h2 align="center">📊 3D Contribution Evolution</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/umeshdharmarathna" alt="GitHub Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeshdharmarathna" alt="GitHub Summary Card" />
 </p>
 
 <h2 align="center">🔥 Coding Streak</h2>
