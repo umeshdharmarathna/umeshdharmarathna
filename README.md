@@ -2,7 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px">
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hi%20👋,%20I'm%20Umesh%20Dharmarathna&fontSize=45&animation=fadeIn&fontAlignY=40&font=Orbitron" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&section=header&text=Hi%20👋,%20I'm%20Umesh%20Dharmarathna&fontSize=28&animation=fadeIn&fontAlignY=40&font=Orbitron" />
 </p>
 
 <div align="center" style="margin-top: -65px;">
