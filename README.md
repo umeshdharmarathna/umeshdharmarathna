@@ -1,104 +1,95 @@
-<!-- BANNER & WELCOME -->
+<!-- CENTERED HEADER WITH NEON TEXT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UMESH%20DHARMARATHNA&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=UMESH%20DHARMARATHNA&fontSize=35&fontColor=36BCF7&font=Orbitron" />
 </p>
 
-<!-- IDENTITY TITLE -->
-<div align="center">
-  <h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #79c0ff;">
-    🚀 SOFTWARE ENGINEER | WEB & AI DEVELOPER
-  </h2>
+<!-- DYNAMIC TYPING -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&height=40&lines=SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;AI+ENTHUSIAST" alt="Typing SVG" />
   </a>
-</div>
+</p>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umeshdharmarathna&label=🚀+PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="umeshdharmarathna" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umeshdharmarathna&label=PROFILE+VIEWS&color=79c0ff&style=flat" alt="umeshdharmarathna" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
 </p>
 
 ---
 
-<!-- ABOUT ME WITH SIDE-BY-SIDE AVATAR -->
-## 👤 About Me
+<!-- ABOUT ME SECTION (NO TABLES) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%9C%A8%20ABOUT%20ME%20%E2%9C%A8-36BCF7?style=flat-square" height="25"/>
+</p>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <p align="left">
-        Hey there! I am a dedicated <b>Software Engineering student</b> studying at 
-        <b>SLTC Research University</b> and <b>C-Clarke Intl</b>. 
-      </p>
-      <p align="left">
-        My core passion lies in <font color="#bb86fc"><b>Artificial Intelligence</b></font> and building scalable <font color="#79c0ff"><b>Software Solutions</b></font>. I love turning complex problems into beautiful, efficient code.
-      </p>
-      <br>
-      <p align="left">
-        💬 <b>Ask me about:</b> Java, Python & Web Technologies<br>
-        ⚡ <b>Fun Fact:</b> I enjoy learning new tech stacks and solving real-world problems.
-      </p>
-    </td>
-    <td width="35%" align="right" valign="middle">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="160px" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  👋 <b>Hi there! I'm Umesh, a passionate Software Engineering student.</b>
+</p>
+
+<p align="center">
+  🎓 Currently pursuing my studies at <b>SLTC Research University</b> & <b>C-Clarke Intl</b>.<br>
+  💡 Deeply interested in <b>Artificial Intelligence</b>, Full-Stack Web Development, and Creative Problem Solving.<br>
+  🛠️ Ask me about <b>Java & Python</b>—always open to discussing new tech and innovative ideas.
+</p>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Languages & Tools
+<!-- TECH STACK (CENTERED & CLEAN) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK%20%F0%9F%9B%A0%EF%B8%8F-8e44ad?style=flat-square" height="25"/>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,react,java,python,c,cpp,git,ps,ai&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,react,java,python,c,cpp,git,ps,ai&perline=8&theme=dark" />
   </a>
 </p>
 
 ---
 
-<!-- GITHUB STATS SECTION -->
-## 📊 GitHub Analytics
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <!-- STREAK CARD -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshdharmarathna&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <!-- SUMMARY CARD -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeshdharmarathna&theme=dark&hide_border=true" width="100%" alt="GitHub Summary" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 🐍 Contribution Snake
+<!-- STATS CARDS (STACKED & CLEAN) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20STATISTICS%20%F0%9F%93%8A-0077b6?style=flat-square" height="25"/>
+</p>
+
+<!-- GRID SUMMARY WITHOUT BOXES -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umeshdharmarathna&theme=dark&hide_border=true" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeshdharmarathna&theme=dark&hide_border=true" height="150px" />
+</p>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- CONNECT WITH ME -->
-## 🤝 Let's Connect
+<!-- SOCIAL CONNECTS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%A4%9D%20CONNECT%20WITH%20ME%20%F0%9F%A4%9D-f39c12?style=flat-square" height="25"/>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/umesh-chamika-223621229/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.facebook.com/umesh.chamika.562" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/umesh_dharmarathna/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:umeshchamika167@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br>
-<p align="center">⭐️ From Umesh Dharmarathna</p>
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
+</p>
