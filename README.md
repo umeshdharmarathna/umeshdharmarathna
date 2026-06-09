@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,php,mysql,java,python,git,ps,ai,github,angular&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,php,mysql,java,python&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,ps,ai,github,angular&theme=dark" />
   </a>
 </p>
-
 ---
 
 <!-- STATS CARDS (STACKED & CLEAN) -->
