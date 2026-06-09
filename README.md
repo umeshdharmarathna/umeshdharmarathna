@@ -50,6 +50,11 @@
   </a>
 </p>
 ---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,matlab,idea,gmail,github&theme=dark" />
+  </a>
+</p>
 
 <!-- STATS CARDS (STACKED & CLEAN) -->
 <p align="center">
