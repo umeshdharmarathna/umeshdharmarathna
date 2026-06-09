@@ -49,7 +49,12 @@
     <img src="https://skillicons.dev/icons?i=git,ps,ai,angular&theme=dark" />
   </a>
 </p>
----
+
+<!-- SOFTWARE & TOOLS (CENTERED & CLEAN) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20SOFTWARE%20%26%20TOOLS%20%F0%9F%92%BB-2ecc71?style=flat-square" height="25"/>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,matlab,idea,gmail,github&theme=dark" />
